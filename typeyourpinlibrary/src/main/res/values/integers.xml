@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="type_your_pin_lenght">6</integer>
+    <integer name="type_your_pin_lenght">4</integer>
     <integer name="type_your_pin_input_type">2</integer> <!-- TYPE_CLASS_NUMBER -->
 </resources>

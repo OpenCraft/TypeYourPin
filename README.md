@@ -16,7 +16,7 @@ allprojects {
 2. Add the dependency
 ```
 dependencies {
-  compile '...'
+  compile 'com.github.OpenCraft:TypeYourPin:-SNAPSHOT'
 }
 ```
 
@@ -38,7 +38,7 @@ If you would like to know what was the pin typed, just pass the interface 'TypeY
   });
 ```
 
-**Customizing:** <br />
+## Customizing: 
 If you want to customize the pin's views, override the default drawable files with your custom ones: 
 ```
 type_your_pin_rounded_shape_filled.xml

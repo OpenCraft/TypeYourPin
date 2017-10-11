@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="type_your_pin_size">40dp</dimen>
-    <dimen name="type_your_pin_margins">15dp</dimen>
+    <dimen name="type_your_pin_margins">30dp</dimen>
 </resources>
